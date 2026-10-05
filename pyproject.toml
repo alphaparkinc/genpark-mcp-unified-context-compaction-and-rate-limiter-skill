@@ -1,0 +1,1 @@
+[project]\nname = "genpark-mcp-unified-context-compaction-and-rate-limiter-skill"\nversion = "1.0.0"\ndescription = "Manages MCP tool execution rate limits and compresses bloated tool response context payloads"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
