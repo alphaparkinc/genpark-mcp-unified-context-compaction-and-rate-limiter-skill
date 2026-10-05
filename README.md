@@ -1,0 +1,1 @@
+# genpark-mcp-unified-context-compaction-and-rate-limiter-skill\n\nManages MCP tool execution rate limits and compresses bloated tool response context payloads.\n\n100% Python Standard Library implementation with zero external dependencies.
