@@ -1,0 +1,8 @@
+{
+  "name": "genpark-mcp-unified-context-compaction-and-rate-limiter-skill",
+  "version": "1.0.0",
+  "description": "Manages MCP tool execution rate limits and compresses bloated tool response context payloads",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
